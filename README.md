@@ -6,8 +6,8 @@
 
 
 
-[[![Twitch Status](https://www.twitch.tv/pulgapk)](https://img.shields.io/twitch/status/https%3A%2F%2Fwww.twitch.tv%2Fpulgapk
-)
+https://img.shields.io/twitch/status/pulgapk
+
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
