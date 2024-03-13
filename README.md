@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Sebastián Caracuel</a> 👋</h1>
 </div>
-<img src="[url=https://postimg.cc/wyc0JGRw][img]https://i.postimg.cc/wyc0JGRw/Banner-Linkedin.png[/img][/url]">
+<img src="[![Banner-Linkedin.png](https://i.postimg.cc/Px09GGXn/Banner-Linkedin.png)](https://postimg.cc/wyc0JGRw)">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
