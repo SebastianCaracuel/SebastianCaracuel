@@ -66,7 +66,6 @@ Ask me anything
 	<a href="caracuel29@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://github.com/SebastianCaracuel"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sebastiancaracuelgonzalez/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
-	<a href="https://www.twitch.tv/pulgapk"><img src="https://img.icons8.com/bubbles/50/000000/twitch.png" alt="Twitch"/></a>
 	<a href="https://www.youtube.com/channel/UCeKKEt1bRUFF5Oqe7PBH48g"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> 
 	
 </p>
