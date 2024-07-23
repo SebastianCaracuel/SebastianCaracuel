@@ -55,6 +55,8 @@ I am currently taking courses to specialize even more, to be able to design UI/U
   <img src="https://profile-counter.glitch.me/SebastianCaracuel/count.svg" />  
 </p>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/34S4UlKPKTX7fY78z5V5ut?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <div align="center">
 
 You have finally discovered my Github profile. <br>
