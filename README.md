@@ -2,22 +2,26 @@
 
 <br>
 <div align="center">
-<h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/sebastiancaracuelgonzalez/">Sebastián Caracuel</a> 👋</h1>
+<h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/sebastiancaracuelgonzalez/">Sebastián [Weichafe]</a> 👋</h1>
 
 </div>
 
 
 ## About me
  
-- 🚀 Full Stack Developer
+- 🖥️ Consultor SAP BASIS Jr
 - 🎓 Computer Engineer graduated from Instituto Duoc Uc, Chile.
-- 📲 Movile developer
+- 🛡️ Analista SOC Nivel 1
   
 <br>
 
-Computer Engineer recently graduated, creating and learning new skills and knowledge, to develop myself as a person and as a professional.
+I am a Computer Engineer with experience in the administration of SAP environments, in transition to the world of cybersecurity🛡️⚔️.
 
-I am currently taking courses to specialize even more, to be able to design UI/UX with the help of Figma, develop, test and maintain applications. Skilled in problem solving, genuine sense of service and great analytical skills.
+During my career at SAP, I have worked in systems and database administration in critical environments, which has allowed me to develop a strong monitoring, analysis, and troubleshooting skills. This experience and skills gives me a technical foundation to specialize in defensive security, vulnerability management, and incident response.
+
+Currently, I am in a process of training and certification in cybersecurity, with the aim of strengthening my knowledge in system protection and threat mitigation.
+
+🚀 Always in search of new challenges and opportunities to grow professionally.
 
 <br>
 
