@@ -1,4 +1,4 @@
-![Banner de Sebastian Caracuel](banner-Linkedin.png)
+![Banner de Sebastian Caracuel](banner.png)
 
 <br>
 <div align="center">
