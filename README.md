@@ -2,17 +2,16 @@
 
 <br>
 <div align="center">
-<h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/sebastiancaracuelgonzalez/">Sebastián [Weichafe]</a> 👋</h1>
+<h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/sebastiancaracuelgonzalez/">Sebastián Caracuel [Weichafe]</a> 👋</h1>
 
 </div>
 
 
 ## About me
- 
-- 🖥️ Consultor SAP BASIS Jr
-- 🎓 Computer Engineer graduated from Instituto Duoc Uc, Chile.
-- 🛡️ Analista SOC Nivel 1
-  
+
+- 🎓 Computer Engineer graduated from Instituto Duoc Uc, Chile. 
+- 🖥️ Consultant SAP BASIS Jr
+- 🛡️ SOC Analyst Level 1
 <br>
 
 I am a Computer Engineer with experience in the administration of SAP environments, in transition to the world of cybersecurity🛡️⚔️.
@@ -36,7 +35,7 @@ Currently, I am in a process of training and certification in cybersecurity, wit
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,docker,figma,firebase,github,html,java,js,kotlin,mysql,nodejs,postman,py,react,flutter,dart,swift,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,Azure,docker,c,vim" />
   </a>
 </p>
 
