@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="#projects">
+  <a href="https://sebastiancaracuel.github.io/">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSA5aC00VjNIOXY2SDVsNyA3IDctN3pNNSAxOHYyaDE0di0ySDV6Ii8+PC9zdmc+&logoColor=white"/>
   </a>
   <br>
