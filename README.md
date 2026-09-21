@@ -76,7 +76,7 @@
       </td>
       <td width="50%" valign="top">
         <h3><a href="https://github.com/SebastianCaracuel/HTB-Writeups">Explore More →</a></h3>
-        <p>Accede a mis resoluciones documentadas de máquinas de HackTheBox.</p>
+        <p>Writeups & Walkthroughs form HackTheBox, documenting my path into cybersecurity across blue team and offensive security.</p>
       </td>
     </tr>
   </table>
