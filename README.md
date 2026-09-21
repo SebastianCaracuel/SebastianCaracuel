@@ -57,7 +57,7 @@
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3><a href="#">Incident Investigation Write-ups</a></h3>
+        <h3><a href="https://github.com/SebastianCaracuel/HTB-Writeups">Walkthroughs</a></h3>
         <p>Detailed technical documentation (reports) on machine challenges on <b>HackTheBox</b> and <b>TryHackMe</b>, focusing on defensive analysis and log traces.</p>
         <p>
           <img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
@@ -75,8 +75,8 @@
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3><a href="https://github.com/SebastianCaracuel/HTB-Writeups">Explore More →</a></h3>
-        <p>Writeups & Walkthroughs form HackTheBox, documenting my path into cybersecurity across blue team and offensive security.</p>
+        <h3><a href="#">Explore More →</a></h3>
+        <p></p>
       </td>
     </tr>
   </table>
